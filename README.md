@@ -31,3 +31,11 @@ Já dei flutter clean, pub get, deixa para lá
 Buga para você, mas não buga para mim
 
 Meu testes unitários funcionam sim
+
+
+ <br /> 
+
+ ....
+
+E lembrando do Bob comecei a pensar
+Com o code organizado eu posso refatorá
