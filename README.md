@@ -2,7 +2,7 @@
 ## Qual é?
 Eu tenho algo a escrever, vou programar para você
 
-Não garanto porem, que compilado será dessa vez
+Não garanto porem, que vai compilar dessa vez
 
 <br/> 
 
@@ -10,21 +10,21 @@ Para os nerdolas daqui, para os nerdolas de lá
 
 Se você programa em java então já sai, Pra lá
 
-Se você nem debuga... pra lá
+Se só usa typscript..pra lá
 
-Se só copilot te ajuda
+Se nem sabe o que é commom lisp
 
 <br/> 
 
-Para outras versões de dart eu vou tentar
+Outras versões de python eu vou tentar
 
-Se o app compila ou não, o que será será
+Se o script roda ou não, o que será será
 
 <br/> 
 
 Mas esse caô que não vai roda
 
-Já dei flutter clean, pub get, deixa para lá
+Dá git pull, pip install executa lá
 
  <br /> 
 
@@ -35,7 +35,47 @@ Meu testes unitários funcionam sim
 
  <br /> 
 
- ....
+Eu sou mou virjão, nem sei o que é amor
+
+Mais maluco, eu já programei um compilador
+
+
+ <br /> 
+
+A quinhentos anos que o epoch tá na terra
+
+Estorou o int? Já era! então diz
+
+ <br />
+
+Essa variavel que tu cria qual é?
+
+Esse argumento que vem, qual é?
+
+Ducktype até na main, qual é?
+
+Qual é o tipo? Qual? Me diz
+
+(refrão)
+
+<br />
+
+Então vem, tipifica um pouquinho
+
+Então vem, documentação do sapatinho
+
+Malandro que sou, eu vou debuga
+
+....
+
+Por que eu tenho um escudo contra o hackerzão
+
+Criptografia e zero trusth, meu irmão
+
+
+
+
+
 
 E lembrando do Bob comecei a pensar
 Com o code organizado eu posso refatorá
